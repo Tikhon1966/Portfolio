@@ -5,4 +5,4 @@
 4. Работаю - ООО "Импорт Трейдинг"
 5. Учусь - Нетология
    ## Фото
-![Фото](https://drive.google.com/file/d/1-vs4p3tyoGE2QwHYAYlWIBchVYtFccbV/view?usp=sharing)
+https://drive.google.com/file/d/1-vs4p3tyoGE2QwHYAYlWIBchVYtFccbV/view?usp=share_link
